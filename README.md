@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1>Investment Tracker App</h1>
-    <p>This code is a simple investment tracker application that calculates the daily and total earnings of an investment over a period of 7 days.</p>
+    <p>This code is for a simple investment tracking application that calculates daily and total earnings of an investment over 7 days period.</p>
     <h2>How it works:</h2>
     <ol>
       <li>The user is prompted to enter the buying price per share.</li>
